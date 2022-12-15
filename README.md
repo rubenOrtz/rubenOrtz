@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rubenOrtz/rubenOrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,5 +29,5 @@ Here are some ideas to get you started:
 | ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenOrtz&show_icons=true&theme=dracula) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenOrtz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 
 
-##About Me
+## About Me
 ![Burger King Badge](https://img.shields.io/badge/Burger%20King-D62300?logo=burgerking&logoColor=fff&style=for-the-badge) > ![McDonald's Badge](https://img.shields.io/badge/McDonald's-FBC817?logo=mcdonalds&logoColor=000&style=for-the-badge)
